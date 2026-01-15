@@ -10,15 +10,15 @@ technical:
 
 soft:
  - title: Project management
- - level: Intermediate
+   level: Intermediate
  - title: Multi-disciplinary team coordination
- - level: Beginner
+   level: Beginner
  - title: Public speaking
- - level: Intermediate
+   level: Intermediate
  - title: Requirement gathering
- - level: Beginner
+   level: Beginner
  - title: Writing
- - level: Intermediate
+   level: Intermediate
 
 programlang:
  - title: Python
@@ -38,67 +38,67 @@ programlang:
 
 machinelearning:
  - title: PyTorch
- - level: Advanced
+   level: Advanced
  - title: Tensor-Flow
- - level: Intermediate
+   level: Intermediate
  - title: Scikit-Learn
- - level: Advanced
+   level: Advanced
  - title: HuggingFace
- - level: Intermediate
+   level: Intermediate
  
 webdev:
  - title: FastAPI
- - level: Intermediate
+   level: Intermediate
  - title: Jinja2
- - level: Intermediate
+   level: Intermediate
  - title: Shiny
- - level: Advanced
+   level: Advanced
  - title: HTML
- - level: Advanced
+   level: Advanced
  - title: Javascript
- - level: Intermediate
+   level: Intermediate
  - title: CSS
- - level: Intermediate
+   level: Intermediate
  
 bioinformatics:
  - title: Seurat
- - level: Advanced
+   level: Advanced
  - title: Signac
- - level: Advanced
+   level: Advanced
  - title: Bedtools
- - level: Intermediate
+   level: Intermediate
  - title: SAMtools
- - level: Intermediate
+   level: Intermediate
  - title: Homer
- - level: Intermediate
+   level: Intermediate
  - title: MACS
- - level: Intermediate
+   level: Intermediate
  - title: Galaxy
- - level: Advanced
+   level: Advanced
  - title: IPA
- - level: Advanced
+   level: Advanced
  - title: PartekFlow
- - level: Advanced
+   level: Advanced
 
 datavis:
  - title: Cytoscape
- - level: Advanced
+   level: Advanced
  - title: Matplotlib
- - level: Advanced
+   level: Advanced
  - title: Plotly
- - level: Advanced
+   level: Advanced
  - title: ggplot2
- - level: Advanced
+   level: Advanced
  - title: pheatmap
- - level: Advanced
+   level: Advanced
  - title: IGV
- - level: Intermediate
+   level: Intermediate
 
 versioncontrol:
  - title: Git
- - level: Intermediate
+   level: Intermediate
  - title: Anaconda
- - level: Intermediate
+   level: Intermediate
  - title: Docker
- - level: Intermediate
+   level: Intermediate
 
