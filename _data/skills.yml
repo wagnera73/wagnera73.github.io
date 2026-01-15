@@ -1,0 +1,104 @@
+technical:
+ - title: CSS and SCSS
+   level: Intermediate
+ - title: HTML5
+   level: Intermediate
+ - title: JavaScrpt
+   level: Advanced
+ - title: ReactJS
+   level: Advanced
+
+soft:
+ - title: Project management
+ - level: Intermediate
+ - title: Multi-disciplinary team coordination
+ - level: Beginner
+ - title: Public speaking
+ - level: Intermediate
+ - title: Requirement gathering
+ - level: Beginner
+ - title: Writing
+ - level: Intermediate
+
+programlang:
+ - title: Python
+   level: Advanced
+ - title: SQL
+   level: Intermediate
+ - title: R
+   level: Advanced
+ - title: MATLAB
+   level: Intermediate
+ - title: C++
+   level: Intermediate
+ - title: bash
+   level: Advanced
+ - title: shell
+   level: Advanced
+
+machinelearning:
+ - title: PyTorch
+ - level: Advanced
+ - title: Tensor-Flow
+ - level: Intermediate
+ - title: Scikit-Learn
+ - level: Advanced
+ - title: HuggingFace
+ - level: Intermediate
+ 
+webdev:
+ - title: FastAPI
+ - level: Intermediate
+ - title: Jinja2
+ - level: Intermediate
+ - title: Shiny
+ - level: Advanced
+ - title: HTML
+ - level: Advanced
+ - title: Javascript
+ - level: Intermediate
+ - title: CSS
+ - level: Intermediate
+ 
+bioinformatics:
+ - title: Seurat
+ - level: Advanced
+ - title: Signac
+ - level: Advanced
+ - title: Bedtools
+ - level: Intermediate
+ - title: SAMtools
+ - level: Intermediate
+ - title: Homer
+ - level: Intermediate
+ - title: MACS
+ - level: Intermediate
+ - title: Galaxy
+ - level: Advanced
+ - title: IPA
+ - level: Advanced
+ - title: PartekFlow
+ - level: Advanced
+
+datavis:
+ - title: Cytoscape
+ - level: Advanced
+ - title: Matplotlib
+ - level: Advanced
+ - title: Plotly
+ - level: Advanced
+ - title: ggplot2
+ - level: Advanced
+ - title: pheatmap
+ - level: Advanced
+ - title: IGV
+ - level: Intermediate
+
+versioncontrol:
+ - title: Git
+ - level: Intermediate
+ - title: Anaconda
+ - level: Intermediate
+ - title: Docker
+ - level: Intermediate
+
