@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: posts
 title:  "Welcome to Jekyll!"
 date:   2026-01-08 06:53:53 +0000
 categories: work
 highlight_home: true
 tags: education
+description: article about education
+header: 
+ overlay_image: https://plus.unsplash.com/premium_photo-1661872817492-fd0c30404d74?q=80&w=2087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ teaser: https://plus.unsplash.com/premium_photo-1661872817492-fd0c30404d74?q=80&w=2087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ caption: "Photo credit: [Unsplash: Getty Images](https://unsplash.com/@gettyimages)"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

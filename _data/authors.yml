@@ -1,0 +1,11 @@
+Andrew Wagner:
+  name        : "Andrew Wagner"
+  bio         : "Follow links"
+  avatar      : "assets/images/bs_grad.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.mywebsite.com"
