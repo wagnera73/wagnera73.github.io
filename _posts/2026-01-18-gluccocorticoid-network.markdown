@@ -5,7 +5,7 @@ date: 2026-01-18 14:25:53 +0000
 tagline: "Olatoke, T., Wagner, A., Astrinidis, A., Zhang, E. Y., Guo, M., Zhang, A. G., Mattam, U., Kopras, E. J., Gupta, N., Smith, E. P., Karbowniczek, M., Markiewski, M. M., Wikenheiser-Brokamp, K. A., Whitsett, J. A., McCormack, F. X., Xu, Y., & Yu, J. J."
 categories: work
 highlight_home: true
-tags: [bioinformatics, network analysis, PECA]
+tags: [bioinformatics, network analysis, PECA, snATAC-seq, scRNA-seq]
 description: Inference and analysis of transcriptional regulatory networks in mesenchymal cells affected by gluccocorticoid receptors. 
 author: Andrew Wagner
 author_profile: true
@@ -19,5 +19,5 @@ header:
 # Methods
 # Results
 
-![Resulting network figure](assets/images/posts/gluccocorticoid_network/network_figure.jpg)
+![Resulting network figure](../../../../assets/images/posts/gluccocorticoid_network/network_figure.jpg)
 

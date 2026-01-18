@@ -1,0 +1,28 @@
+---
+layout: posts
+title: "Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics"
+date: 2026-01-18 14:25:53 +0000
+tagline: "Identification of unique subtypes in the LAM Niche"
+categories: work
+highlight_home: true
+tags: [bioinformatics, network analysis, PECA, snATAC-seq, scRNA-seq, data integration, motif enrichment, multimodal integration]
+description: Paper identifies unique subtypes of the LAMcore cell type within the LAM niche. Showcases my ability to extract meaningful biological insights via snATAC-seq analysis and multimodal network analysis.
+author: Andrew Wagner
+author_profile: true
+header: 
+  overlay_image: https://plus.unsplash.com/premium_photo-1661872817492-fd0c30404d74?q=80&w=2087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  teaser: https://plus.unsplash.com/premium_photo-1661872817492-fd0c30404d74?q=80&w=2087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  caption: "Photo credit: [Unsplash: Getty Images](https://unsplash.com/@gettyimages)"
+---
+[Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.07.663390v1)
+# Background
+# Methods
+## Tools Used
+# Results
+
+## Overall Results
+![Figure 4](../../../../assets/images/posts/lam_niche/fig4.jpg)
+## Differentially Accessible Peaks
+![Supplementary Figure 9](../../../../assets/images/posts/lam_niche/figS9.jpg)
+## Multiome Peak to Gene Links
+![Supplementary Figure 10](../../../../assets/images/posts/lam_niche/figS10.jpg)

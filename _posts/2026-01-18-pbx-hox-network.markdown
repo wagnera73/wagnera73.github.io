@@ -19,5 +19,7 @@ header:
 # Methods
 # Results
 
-![Figure 1](assets/images/posts/hox_pbx_network/fig1.jpg)
-![Figure 4](assets/images/posts/hox_pbx_network/fig4.jpg)
+![Figure 1](../../../../assets/images/posts/hox_pbx_network/fig1.jpg)
+
+
+![Figure 4](../../../../assets/images/posts/hox_pbx_network/fig4.jpg)
