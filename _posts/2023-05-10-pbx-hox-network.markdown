@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Single-Cell Multiomic Analysis Identifies a HOX-PBX Gene Network Regulating the Survival of Lymphangioleiomyomatosis Cells"
-date: 2026-01-18 14:25:53 +0000
+date: 2023-05-10 14:25:53 +0000
 tagline: "Olatoke, T., Wagner, A., Astrinidis, A., Zhang, E. Y., Guo, M., Zhang, A. G., Mattam, U., Kopras, E. J., Gupta, N., Smith, E. P., Karbowniczek, M., Markiewski, M. M., Wikenheiser-Brokamp, K. A., Whitsett, J. A., McCormack, F. X., Xu, Y., & Yu, J. J."
 categories: work
 highlight_home: true
