@@ -15,8 +15,6 @@ header:
   teaser: https://plus.unsplash.com/premium_photo-1661872817492-fd0c30404d74?q=80&w=2087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   caption: "Photo credit: [Unsplash: Getty Images](https://unsplash.com/@gettyimages)"
 ---
-
-
 # Single-Cell Multiomic Analysis of LAM Reveals a HOX–PBX Regulatory Network
 
 **Publication:** Science Advances, 2023  
