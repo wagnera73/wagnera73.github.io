@@ -16,6 +16,8 @@ header:
 ---
 [Lymphangioleiomyomatosis (LAM) Cell Atlas](https://doi.org/10.1136/thoraxjnl-2022-218772)
 # Background
+Our lab group developed a single cell atlas for the rare disease Lymphangioleiomyomatosis (LAM) in partnership with the LAM Foundation.
+
 # Methods
 # Results
 
