@@ -7,7 +7,7 @@ main:
   - title: "My Publications"
     url: "mywriting"
   - title: "My CV"
-    url: "assets/images/Wagner_CV_20260122_CCHMC.pdf"
+    url: "mywriting"
   - title: "About Me"
     url: "/about"
   # - title: "About"
