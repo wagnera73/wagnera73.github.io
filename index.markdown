@@ -29,7 +29,7 @@ I have a proven track record of high-impact research, with first-author and co-a
 ## 🚀 Key Highlights
 * **Automating Discovery:** Developed a Python/FastAPI pipeline for **Procter & Gamble** to automate data pre-processing for global research teams.
 * **Data Stewardship:** Maintainer of public cell atlas databases for the **LungMAP initiative**.
-* **Published Research:** Extensive experience analyzing epigenetic regulation and HOX-PBX gene networks in rare diseases (LAM).
+* **Published Research:** Extensive experience analyzing epigenetic regulation and gene networks in rare diseases (LAM).
 
 ---
 
