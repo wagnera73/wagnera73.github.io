@@ -9,7 +9,6 @@ author_profile: true
 ![Graduation](assets/images/bs_grad.jpg){: .avatar}
 
 # Hi there! I'm Andrew Wagner and I am currently seeking 
-# Hi, I'm [Your Name] 👋
 
 ### MS Computer Science | BS Biomedical Engineering | Computational Biologist
 **Bridging the gap between complex biology and computational intelligence.**
@@ -33,8 +32,6 @@ I have a proven track record of high-impact research, with first-author and co-a
 * **Published Research:** Extensive experience analyzing epigenetic regulation and HOX-PBX gene networks in rare diseases (LAM).
 
 ---
-
-### [📄 View My Resume](./assets/images/Wagner_CV_20260122_CCHMC.pdf) | [🔗 LinkedIn](https://www.linkedin.com/in/andrew-wagner-0a4545119/) | [📧 Contact Me](mailto:your.email@example.com)
 
 
 Hello [My Work](/mywork) [My Writing](/mywriting)

@@ -5,4 +5,4 @@ author: Andrew Wagner
 author_profile: true
 ---
 
-My Writing Landing page potentially replace with publications
+This page will host a list of publications with links to project pages. Need template format for publication pages.

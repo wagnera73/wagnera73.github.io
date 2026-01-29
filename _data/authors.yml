@@ -1,6 +1,6 @@
 Andrew Wagner:
   name        : "Andrew Wagner"
-  bio         : "Follow links"
+  bio         : "Recent graduate looking for full-time position."
   avatar      : "assets/images/bs_grad.jpg"
   links:
     - label: "Email"
@@ -8,4 +8,4 @@ Andrew Wagner:
       url: "mailto:name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "https://www.linkedin.com/in/andrew-wagner-0a4545119/"
