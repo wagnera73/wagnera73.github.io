@@ -10,3 +10,9 @@ paperurl: 'https://www.science.org/doi/10.1126/sciadv.adf8549'
 citation: 'Olatoke, T., Wagner, A., Astrinidis, A., Zhang, E. Y., Guo, M., Zhang, A. G., Mattam, U., Kopras, E. J., Gupta, N., Smith, E. P., Karbowniczek, M., Markiewski, M. M., Wikenheiser-Brokamp, K. A., Whitsett, J. A., McCormack, F. X., Xu, Y., & Yu, J. J. (2023). Single-Cell Multiomic Analysis Identifies a HOX-PBX Gene Network Regulating the Survival of Lymphangioleiomyomatosis Cells. Sci Adv, 9(19), eadf8549. https://doi.org/10.1126/sciadv.adf8549 '
 ---
 This page will describe the skills and software used in the HOX-PBX paper.
+
+
+![Figure 1](images/posts/hox_pbx_network/fig1.jpg)
+
+
+![Figure 4](images/posts/hox_pbx_network/fig4.jpg)
