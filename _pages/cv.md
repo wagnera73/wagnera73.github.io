@@ -103,4 +103,4 @@ Selected for a mentored research opportunity through the University of Cincinnat
 * **Godown Family Fellowship** (Full tuition and stipend towards MS) | 2022-2025
 * **Cincinnatus Excellence Scholarship** (Full tuition and room towards BS) | 2015-2020
 * **Dean's List** | 2015-2020
-* **UC University Honors Program**
+* **UC University Honors Program** | 2015-2020
