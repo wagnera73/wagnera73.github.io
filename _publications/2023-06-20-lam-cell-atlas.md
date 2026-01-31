@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Lymphangioleiomyomatosis (LAM) Cell Atlas"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-20-lam-cell-atlas
