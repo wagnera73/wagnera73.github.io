@@ -12,7 +12,7 @@ citation: 'Olatoke, T., Wagner, A., Astrinidis, A., Zhang, E. Y., Guo, M., Zhang
 This page will describe the skills and software used in the HOX-PBX paper.
 
 
-![Figure 1](images/posts/hox_pbx_network/fig1.jpg)
+![Figure 1](/images/posts/hox_pbx_network/fig1.jpg)
 
 
-![Figure 4](images/posts/hox_pbx_network/fig4.jpg)
+![Figure 4](/images/posts/hox_pbx_network/fig4.jpg)
