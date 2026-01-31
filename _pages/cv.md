@@ -23,7 +23,8 @@ MS Computer Science student with a BS in Biomedical Engineering and over six yea
 GPA: 3.7
 
 **BS, Biomedical Engineering** | University of Cincinnati | May 2020  
-GPA: 3.8 | Graduated Magna Cum Laude
+GPA: 3.8 
+Graduated Magna Cum Laude
 
 ---
 
