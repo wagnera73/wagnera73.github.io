@@ -99,8 +99,21 @@ Selected for a mentored research opportunity through the University of Cincinnat
 ---
 
 ## Honors and Awards
-
-* **Godown Family Fellowship** (Full tuition and stipend towards MS) 2022-2025
-* **Cincinnatus Excellence Scholarship** (Full tuition and room towards BS) 2015-2020
-* **Dean's List** 2015-2020
-* **UC University Honors Program** 2015-2020
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+    <td style="border:none;"><strong>Godown Family Fellowship</strong> (Full tuition and stipend towards MS)</td>
+    <td style="border:none; text-align:right;">2022-2025</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none;"><strong>Cincinnatus Excellence Scholarship</strong> (Full tuition and room towards BS)</td>
+    <td style="border:none; text-align:right;">2015-2020</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none;"><strong>Dean's List</strong></td>
+    <td style="border:none; text-align:right;">2015-2020</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none;"><strong>UC University Honors Program</strong></td>
+    <td style="border:none; text-align:right;">2015-2020</td>
+  </tr>
+</table>
