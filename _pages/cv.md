@@ -90,22 +90,10 @@ Selected for a mentored research opportunity through the University of Cincinnat
 ---
 
 ## Publications
-
-1. Alharbi, S., **Wagner, A.**, Merkle, S., Pastura, P., McDaniel, C. G., Fox, D., Xu, Y., & Le Cras, T. D. (2026). MEK Inhibition Reduces Vascular Malformations and Gene Dysregulation in NRAS<sup>Q61R</sup> Human Endothelial Cells. *Pediatric Blood Cancer*, e70002. [https://doi.org/10.1002/1545-5017.70002](https://doi.org/10.1002/1545-5017.70002)
-
-2. **Wagner, A.**, Anjum, U., & Zhan, J. Multimodal Entity Alignment via Siamese Network and Structural Attention. *In Proceedings of the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Vienna, Austria, Oct 5–8, 2025. [Oral presentation]
-
-3. Chen, K., Zhao, S., Guo, M., Reza, H., **Wagner, A.**, Cakar, A. C., Jiang, C., Zhang, E., Green, J., Martin, E., Wikenheiser-Brokamp, K., Perl, A. K., Sinner, D., Yu, J., & Xu, Y. (2025). Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics. *bioRxiv*. 
-
-4. Olatoke, T., Zhang, E. Y., **Wagner, A.**, He, Q., Li, S., Astreinidis, A., McCormack, F. X., Xu, Y., & Yu, J. J. (2024). STAT1 Promotes PD-L1 Activation and Tumor Growth in Lymphangioleiomyomatosis. *bioRxiv*. [https://doi.org/10.1101/2024.12.11.627871](https://doi.org/10.1101/2024.12.11.627871)
-
-5. Guo, M., Morley, M. P., Jiang, C., Wu, Y., Li, G., Du, Y., Zhao, S., **Wagner, A.**, Cakar, A. C., Kouril, M., Jin, K., Gaddis, N., Kitzmiller, J. A., Stewart, K., Basil, M. C., Lin, S. M., Ying, Y., Babu, A., Wikenheiser-Brokamp, K. A., Mun, K. S., Naren, A. P., Clair, G., Adkins, J. N., Pryhuber, G. S., Misra, R. S., Aronow, B. J., Tickle, T. L., Salomonis, N., Sun, X., Morrisey, E. E., Whitsett, J. A., Consortium, N. L., & Xu, Y. (2023). Guided Construction of Single Cell Reference for Human and Mouse Lung. *Nat Commun*, 14(1), 4566. [https://doi.org/10.1038/s41467-023-40173-5](https://doi.org/10.1038/s41467-023-40173-5)
-
-6. Olatoke, T., **Wagner, A.**, Astrinidis, A., Zhang, E. Y., Guo, M., Zhang, A. G., Mattam, U., Kopras, E. J., Gupta, N., Smith, E. P., Karbowniczek, M., Markiewski, M. M., Wikenheiser-Brokamp, K. A., Whitsett, J. A., McCormack, F. X., Xu, Y., & Yu, J. J. (2023). Single-Cell Multiomic Analysis Identifies a HOX-PBX Gene Network Regulating the Survival of Lymphangioleiomyomatosis Cells. *Sci Adv*, 9(19), eadf8549. [https://doi.org/10.1126/sciadv.adf8549](https://doi.org/10.1126/sciadv.adf8549)
-
-7. Du, Y., Guo, M., Wu, Y., **Wagner, A.**, Perl, A. K., Wikenheiser-Brokamp, K., Yu, J., Gupta, N., Kopras, E., Krymskaya, V., Obraztsova, K., Tang, Y., Kwiatkowski, D., Henske, E. P., McCormack, F., & Xu, Y. (2023). Lymphangioleiomyomatosis (LAM) Cell Atlas. *Thorax*, 78(1), 85-87. [https://doi.org/10.1136/thoraxjnl-2022-218772](https://doi.org/10.1136/thoraxjnl-2022-218772)
-
-8. Bridges, J. P., Sudha, P., Lipps, D., **Wagner, A.**, Guo, M., Du, Y., Brown, K., Filuta, A., Kitzmiller, J., Stockman, C., Chen, X., Weirauch, M. T., Jobe, A. H., Whitsett, J. A., & Xu, Y. (2020). Glucocorticoid Regulates Mesenchymal Cell Differentiation Required for Perinatal Lung Morphogenesis and Function. *Am J Physiol Lung Cell Mol Physiol*, 319(2), L239-L255. [https://doi.org/10.1152/ajplung.00459.2019](https://doi.org/10.1152/ajplung.00459.2019)
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
 ---
 
