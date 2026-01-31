@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, University of Cincinnati, 2025
+* B.S. in Biomedical Engineering, University of Cincinnati, 2020
 
 Work experience
 ======
@@ -34,12 +33,52 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * SQL
+  * R
+  * MATLAB
+  * C++
+  * bash
+  * shell
+* Machine Learning
+  * PyTorch
+  * Tensor-Flow
+  * Scikit-Learn
+  * HuggingFace
+* Web Development
+  * HTML
+  * CSS
+  * JavaScript
+  * FastAPI
+  * Jinja2
+  * ShinyCell
+* Bioinformatics
+  * Seurat
+  * Signac
+  * Bedtools
+  * SAMtools
+  * Homer
+  * MACS
+  * Galaxy
+  * IPA
+  * PartekFlow
+* Data Visualization
+  * Cytoscape
+  * Matplotlib
+  * Plotly
+  * ggplot2
+  * pheatmap
+  * IGV
+* Version Control/Environments
+  * Git
+  * Anaconda
+  * Docker 
+* Soft Skills
+  * Project management
+  * Multi-disciplinary team coordination
+  * Public speaking
+  * Requirement gathering
 
 Publications
 ======
@@ -47,7 +86,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +100,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
