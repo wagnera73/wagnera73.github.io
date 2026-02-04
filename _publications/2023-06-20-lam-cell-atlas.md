@@ -3,7 +3,7 @@ title: "Lymphangioleiomyomatosis (LAM) Cell Atlas"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-20-lam-cell-atlas
-excerpt: 'This paper is about The LAM Cell Atlas'
+excerpt: 'The LAM Cell Atlas is a web-based web portal that provides easy access to integrated single-cell RNA sequencing data compiled from the analysis of lung, uterus, and kidneys of patients with LAM.'
 date: 2023-06-20
 venue: 'Thorax'
 paperurl: 'https://thorax.bmj.com/content/78/1/85'
